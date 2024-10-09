@@ -1,0 +1,16 @@
+当前的测试数据： {'desc': '查询购物车列表数据', 'featureName': '购物车模块', 'storyName': '订单模块', 'remark': '查看购物车模块备注', 'steps': [{'发送Post请求': {'关键字': 'request_get', 'URL': '{{URL}}', 'PARAMS': {'s': 'api/cart/index', 'application': 'app', 'token': '{{msg_token}}'}}}, {'通过JSONPATH提取数据-MSG': {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}}, {'断言-文本断言-等于': {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': 'success', 'OP_STR': '=='}}, {'通过JSONPATH提取数据-购物车ID，用来删除': {'关键字': 'ex_jsonData', 'EXVALUE': '$..id', 'INDEX': 0, 'VARNAME': 'card_id_1'}}, {'通过JSONPATH提取数据--购物车ID，用来提交订单': {'关键字': 'ex_jsonData', 'EXVALUE': '$..id', 'INDEX': 1, 'VARNAME': 'card_id_2'}}], '_case_name': '查询购物车列表数据'}
+开始执行步骤：发送Post请求 - {'关键字': 'request_get', 'URL': '{{URL}}', 'PARAMS': {'s': 'api/cart/index', 'application': 'app', 'token': '{{msg_token}}'}}
+开始执行步骤：通过JSONPATH提取数据-MSG - {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': 'success', 'msg_token': '434f1d1572a7aab2910ad51eac08697f'}
+-----------------------
+开始执行步骤：断言-文本断言-等于 - {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': 'success', 'OP_STR': '=='}
+开始执行步骤：通过JSONPATH提取数据-购物车ID，用来删除 - {'关键字': 'ex_jsonData', 'EXVALUE': '$..id', 'INDEX': 0, 'VARNAME': 'card_id_1'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': 'success', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839'}
+-----------------------
+开始执行步骤：通过JSONPATH提取数据--购物车ID，用来提交订单 - {'关键字': 'ex_jsonData', 'EXVALUE': '$..id', 'INDEX': 1, 'VARNAME': 'card_id_2'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': 'success', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839', 'card_id_2': '28833'}
+-----------------------
+--当前步骤执行结束--

@@ -1,0 +1,8 @@
+当前的测试数据： {'desc': '提交订单-商品详情', 'featureName': '提交订单模块', 'storyName': '订单模块', 'remark': '提交订单模块备注', 'steps': [{'发送Post请求': {'关键字': 'request_post_row_json', 'URL': '{{URL}}', 'PARAMS': {'s': '/api/buy/add', 'application': 'app', 'token': '{{msg_token}}'}, 'DATA': {'buy_type': 'goods', 'goods_id': 11, 'stock': 2, 'spec': [{'type': '尺寸', 'value': 'M'}], 'address_id': '{{add_id}}', 'payment_id': 4, 'user_note': '通过商品详情进行下单'}}}, {'通过JSONPATH提取数据-MSG': {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}}, {'断言-文本断言-等于': {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': '提交成功', 'OP_STR': '=='}}], '_case_name': '提交订单-商品详情'}
+开始执行步骤：发送Post请求 - {'关键字': 'request_post_row_json', 'URL': '{{URL}}', 'PARAMS': {'s': '/api/buy/add', 'application': 'app', 'token': '{{msg_token}}'}, 'DATA': {'buy_type': 'goods', 'goods_id': 11, 'stock': 2, 'spec': [{'type': '尺寸', 'value': 'M'}], 'address_id': '{{add_id}}', 'payment_id': 4, 'user_note': '通过商品详情进行下单'}}
+开始执行步骤：通过JSONPATH提取数据-MSG - {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': '提交成功', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839', 'card_id_2': '28833', 'add_id': '14587'}
+-----------------------
+开始执行步骤：断言-文本断言-等于 - {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': '提交成功', 'OP_STR': '=='}
+--当前步骤执行结束--

@@ -1,0 +1,2 @@
+2024-10-09 03:08:17 DEBUG Starting new HTTP connection (1): shop-xo.hctestedu.com:80 connectionpool.py _new_conn 243
+2024-10-09 03:08:17 DEBUG http://shop-xo.hctestedu.com:80 "GET /?s=api%2Fuseraddress%2Findex&application=app&token=434f1d1572a7aab2910ad51eac08697f HTTP/11" 200 None connectionpool.py _make_request 546

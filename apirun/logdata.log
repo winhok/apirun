@@ -1,0 +1,1462 @@
+2024-10-09 03:08:15 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u7528\u6237\u6ce8\u518c\u7528\u4f8b-\u751f\u6210\u7528\u6237\u540d\u80fd\u751f\u6210\u6210\u529f] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:15 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:15 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:15 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:15 INFO 用例耗时：0.21295800000007148 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:15 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:16 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[T2-\u767b\u5f55\u7528\u4f8b-\u6b63\u786e\u7684\u7528\u6237\u540d\u548c\u5bc6\u78010] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:16 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:16 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:16 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:16 INFO 用例耗时：0.17738420000023325 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:16 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:16 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[T2-\u767b\u5f55\u7528\u4f8b-\u9519\u8bef\u7684\u7528\u6237\u540d\u548c\u5bc6\u7801] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:16 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:16 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:16 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:16 INFO 用例耗时：0.1722196000000622 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:16 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:16 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[T2-\u767b\u5f55\u7528\u4f8b-\u6b63\u786e\u7684\u7528\u6237\u540d\u548c\u5bc6\u78011] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:16 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:16 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:16 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:16 INFO 用例耗时：0.18180089999987104 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:16 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:16 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u52a0\u5165\u8d2d\u7269\u8f66\u6210\u529f-\u8868\u5355\u683c\u5f0f] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:16 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:16 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:16 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:16 INFO 用例耗时：0.14836809999997058 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:16 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:16 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u52a0\u5165\u8d2d\u7269\u8f66\u6210\u529f-JSON\u683c\u5f0f] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:16 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:16 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:16 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:16 INFO 用例耗时：0.15857890000006591 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:16 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:17 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u67e5\u8be2\u8d2d\u7269\u8f66\u5217\u8868\u6570\u636e] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:17 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:17 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:17 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:17 INFO 用例耗时：0.16252859999985958 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:17 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:17 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u5220\u9664\u8d2d\u7269\u8f66\u6210\u529f] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:17 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:17 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:17 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:17 INFO 用例耗时：0.13313389999984793 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:17 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:18 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u67e5\u8be2\u5730\u5740\u5217\u8868] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:18 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:18 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:18 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:18 INFO 用例耗时：1.4749205000002803 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:18 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:18 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u5220\u9664\u5730\u5740\u5217\u8868] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:18 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:18 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:18 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:18 INFO 用例耗时：0.13455029999977342 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:18 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:18 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u6dfb\u52a0\u5730\u5740\u63a5\u53e3] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:18 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:18 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:18 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:18 INFO 用例耗时：0.14216679999981352 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:18 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:20 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u67e5\u8be2\u5730\u5740\u5217\u8868-\u63d0\u4ea4\u8ba2\u5355\u7528] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:20 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:20 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:20 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:20 INFO 用例耗时：1.7271608000000924 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:20 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:20 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u63d0\u4ea4\u8ba2\u5355-\u8d2d\u7269\u8f66] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:20 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:20 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:20 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:20 INFO 用例耗时：0.2052324999999655 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:20 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:21 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u63d0\u4ea4\u8ba2\u5355-\u5546\u54c1\u8be6\u60c5] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:21 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:21 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:21 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:21 INFO 用例耗时：0.16748409999991054 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:21 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:23 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u52a0\u5bc6\u63a5\u53e3-\u6b63\u786e\u7684\u7528\u6237\u540d\u548c\u5bc6\u7801] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:23 INFO 测试结果：failed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:23 INFO 故障表示：self = <urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>
+
+    def _new_conn(self) -> socket.socket:
+        """Establish a socket connection and set nodelay settings on it.
+    
+        :return: New socket connection.
+        """
+        try:
+>           sock = connection.create_connection(
+                (self._dns_host, self.port),
+                self.timeout,
+                source_address=self.source_address,
+                socket_options=self.socket_options,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:199: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\connection.py:85: in create_connection
+    raise err
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+address = ('127.0.0.1', 8080), timeout = None, source_address = None
+socket_options = [(6, 1, 1)]
+
+    def create_connection(
+        address: tuple[str, int],
+        timeout: _TYPE_TIMEOUT = _DEFAULT_TIMEOUT,
+        source_address: tuple[str, int] | None = None,
+        socket_options: _TYPE_SOCKET_OPTIONS | None = None,
+    ) -> socket.socket:
+        """Connect to *address* and return the socket object.
+    
+        Convenience function.  Connect to *address* (a 2-tuple ``(host,
+        port)``) and return the socket object.  Passing the optional
+        *timeout* parameter will set the timeout on the socket instance
+        before attempting to connect.  If no *timeout* is supplied, the
+        global default timeout setting returned by :func:`socket.getdefaulttimeout`
+        is used.  If *source_address* is set it must be a tuple of (host, port)
+        for the socket to bind as a source address before making the connection.
+        An host of '' or port 0 tells the OS to use the default.
+        """
+    
+        host, port = address
+        if host.startswith("["):
+            host = host.strip("[]")
+        err = None
+    
+        # Using the value from allowed_gai_family() in the context of getaddrinfo lets
+        # us select whether to work with IPv4 DNS records, IPv6 records, or both.
+        # The original create_connection function always returns all records.
+        family = allowed_gai_family()
+    
+        try:
+            host.encode("idna")
+        except UnicodeError:
+            raise LocationParseError(f"'{host}', label empty or too long") from None
+    
+        for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+            af, socktype, proto, canonname, sa = res
+            sock = None
+            try:
+                sock = socket.socket(af, socktype, proto)
+    
+                # If provided, set socket level options before connecting.
+                _set_socket_options(sock, socket_options)
+    
+                if timeout is not _DEFAULT_TIMEOUT:
+                    sock.settimeout(timeout)
+                if source_address:
+                    sock.bind(source_address)
+>               sock.connect(sa)
+E               ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\connection.py:73: ConnectionRefusedError
+
+The above exception was the direct cause of the following exception:
+
+self = <urllib3.connectionpool.HTTPConnectionPool object at 0x0000022BD78A0520>
+method = 'POST', url = '/login_safe'
+body = 'password=XbXHJrNLwoTVcyfqM9eTgQ%3D%3D&username=mdSm0RmB%2BxAKrTah3DG31A%3D%3D'
+headers = {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '77', 'Content-Type': 'application/x-www-form-urlencoded'}
+retries = Retry(total=0, connect=None, read=False, redirect=None, status=None)
+redirect = False, assert_same_host = False
+timeout = Timeout(connect=None, read=None, total=None), pool_timeout = None
+release_conn = False, chunked = False, body_pos = None, preload_content = False
+decode_content = False, response_kw = {}
+parsed_url = Url(scheme=None, auth=None, host=None, port=None, path='/login_safe', query=None, fragment=None)
+destination_scheme = None, conn = None, release_this_conn = True
+http_tunnel_required = False, err = None, clean_exit = False
+
+    def urlopen(  # type: ignore[override]
+        self,
+        method: str,
+        url: str,
+        body: _TYPE_BODY | None = None,
+        headers: typing.Mapping[str, str] | None = None,
+        retries: Retry | bool | int | None = None,
+        redirect: bool = True,
+        assert_same_host: bool = True,
+        timeout: _TYPE_TIMEOUT = _DEFAULT_TIMEOUT,
+        pool_timeout: int | None = None,
+        release_conn: bool | None = None,
+        chunked: bool = False,
+        body_pos: _TYPE_BODY_POSITION | None = None,
+        preload_content: bool = True,
+        decode_content: bool = True,
+        **response_kw: typing.Any,
+    ) -> BaseHTTPResponse:
+        """
+        Get a connection from the pool and perform an HTTP request. This is the
+        lowest level call for making a request, so you'll need to specify all
+        the raw details.
+    
+        .. note::
+    
+           More commonly, it's appropriate to use a convenience method
+           such as :meth:`request`.
+    
+        .. note::
+    
+           `release_conn` will only behave as expected if
+           `preload_content=False` because we want to make
+           `preload_content=False` the default behaviour someday soon without
+           breaking backwards compatibility.
+    
+        :param method:
+            HTTP request method (such as GET, POST, PUT, etc.)
+    
+        :param url:
+            The URL to perform the request on.
+    
+        :param body:
+            Data to send in the request body, either :class:`str`, :class:`bytes`,
+            an iterable of :class:`str`/:class:`bytes`, or a file-like object.
+    
+        :param headers:
+            Dictionary of custom headers to send, such as User-Agent,
+            If-None-Match, etc. If None, pool headers are used. If provided,
+            these headers completely replace any pool-specific headers.
+    
+        :param retries:
+            Configure the number of retries to allow before raising a
+            :class:`~urllib3.exceptions.MaxRetryError` exception.
+    
+            If ``None`` (default) will retry 3 times, see ``Retry.DEFAULT``. Pass a
+            :class:`~urllib3.util.retry.Retry` object for fine-grained control
+            over different types of retries.
+            Pass an integer number to retry connection errors that many times,
+            but no other types of errors. Pass zero to never retry.
+    
+            If ``False``, then retries are disabled and any exception is raised
+            immediately. Also, instead of raising a MaxRetryError on redirects,
+            the redirect response will be returned.
+    
+        :type retries: :class:`~urllib3.util.retry.Retry`, False, or an int.
+    
+        :param redirect:
+            If True, automatically handle redirects (status codes 301, 302,
+            303, 307, 308). Each redirect counts as a retry. Disabling retries
+            will disable redirect, too.
+    
+        :param assert_same_host:
+            If ``True``, will make sure that the host of the pool requests is
+            consistent else will raise HostChangedError. When ``False``, you can
+            use the pool on an HTTP proxy and request foreign hosts.
+    
+        :param timeout:
+            If specified, overrides the default timeout for this one
+            request. It may be a float (in seconds) or an instance of
+            :class:`urllib3.util.Timeout`.
+    
+        :param pool_timeout:
+            If set and the pool is set to block=True, then this method will
+            block for ``pool_timeout`` seconds and raise EmptyPoolError if no
+            connection is available within the time period.
+    
+        :param bool preload_content:
+            If True, the response's body will be preloaded into memory.
+    
+        :param bool decode_content:
+            If True, will attempt to decode the body based on the
+            'content-encoding' header.
+    
+        :param release_conn:
+            If False, then the urlopen call will not release the connection
+            back into the pool once a response is received (but will release if
+            you read the entire contents of the response such as when
+            `preload_content=True`). This is useful if you're not preloading
+            the response's content immediately. You will need to call
+            ``r.release_conn()`` on the response ``r`` to return the connection
+            back into the pool. If None, it takes the value of ``preload_content``
+            which defaults to ``True``.
+    
+        :param bool chunked:
+            If True, urllib3 will send the body using chunked transfer
+            encoding. Otherwise, urllib3 will send the body using the standard
+            content-length form. Defaults to False.
+    
+        :param int body_pos:
+            Position to seek to in file-like body in the event of a retry or
+            redirect. Typically this won't need to be set because urllib3 will
+            auto-populate the value when needed.
+        """
+        parsed_url = parse_url(url)
+        destination_scheme = parsed_url.scheme
+    
+        if headers is None:
+            headers = self.headers
+    
+        if not isinstance(retries, Retry):
+            retries = Retry.from_int(retries, redirect=redirect, default=self.retries)
+    
+        if release_conn is None:
+            release_conn = preload_content
+    
+        # Check host
+        if assert_same_host and not self.is_same_host(url):
+            raise HostChangedError(self, url, retries)
+    
+        # Ensure that the URL we're connecting to is properly encoded
+        if url.startswith("/"):
+            url = to_str(_encode_target(url))
+        else:
+            url = to_str(parsed_url.url)
+    
+        conn = None
+    
+        # Track whether `conn` needs to be released before
+        # returning/raising/recursing. Update this variable if necessary, and
+        # leave `release_conn` constant throughout the function. That way, if
+        # the function recurses, the original value of `release_conn` will be
+        # passed down into the recursive call, and its value will be respected.
+        #
+        # See issue #651 [1] for details.
+        #
+        # [1] <https://github.com/urllib3/urllib3/issues/651>
+        release_this_conn = release_conn
+    
+        http_tunnel_required = connection_requires_http_tunnel(
+            self.proxy, self.proxy_config, destination_scheme
+        )
+    
+        # Merge the proxy headers. Only done when not using HTTP CONNECT. We
+        # have to copy the headers dict so we can safely change it without those
+        # changes being reflected in anyone else's copy.
+        if not http_tunnel_required:
+            headers = headers.copy()  # type: ignore[attr-defined]
+            headers.update(self.proxy_headers)  # type: ignore[union-attr]
+    
+        # Must keep the exception bound to a separate variable or else Python 3
+        # complains about UnboundLocalError.
+        err = None
+    
+        # Keep track of whether we cleanly exited the except block. This
+        # ensures we do proper cleanup in finally.
+        clean_exit = False
+    
+        # Rewind body position, if needed. Record current position
+        # for future rewinds in the event of a redirect/retry.
+        body_pos = set_file_position(body, body_pos)
+    
+        try:
+            # Request a connection from the queue.
+            timeout_obj = self._get_timeout(timeout)
+            conn = self._get_conn(timeout=pool_timeout)
+    
+            conn.timeout = timeout_obj.connect_timeout  # type: ignore[assignment]
+    
+            # Is this a closed/new connection that requires CONNECT tunnelling?
+            if self.proxy is not None and http_tunnel_required and conn.is_closed:
+                try:
+                    self._prepare_proxy(conn)
+                except (BaseSSLError, OSError, SocketTimeout) as e:
+                    self._raise_timeout(
+                        err=e, url=self.proxy.url, timeout_value=conn.timeout
+                    )
+                    raise
+    
+            # If we're going to release the connection in ``finally:``, then
+            # the response doesn't need to know about the connection. Otherwise
+            # it will also try to release it and we'll have a double-release
+            # mess.
+            response_conn = conn if not release_conn else None
+    
+            # Make the request on the HTTPConnection object
+>           response = self._make_request(
+                conn,
+                method,
+                url,
+                timeout=timeout_obj,
+                body=body,
+                headers=headers,
+                chunked=chunked,
+                retries=retries,
+                response_conn=response_conn,
+                preload_content=preload_content,
+                decode_content=decode_content,
+                **response_kw,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:789: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:495: in _make_request
+    conn.request(
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:441: in request
+    self.endheaders()
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:1278: in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:1038: in _send_output
+    self.send(msg)
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:976: in send
+    self.connect()
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:279: in connect
+    self.sock = self._new_conn()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>
+
+    def _new_conn(self) -> socket.socket:
+        """Establish a socket connection and set nodelay settings on it.
+    
+        :return: New socket connection.
+        """
+        try:
+            sock = connection.create_connection(
+                (self._dns_host, self.port),
+                self.timeout,
+                source_address=self.source_address,
+                socket_options=self.socket_options,
+            )
+        except socket.gaierror as e:
+            raise NameResolutionError(self.host, self, e) from e
+        except SocketTimeout as e:
+            raise ConnectTimeoutError(
+                self,
+                f"Connection to {self.host} timed out. (connect timeout={self.timeout})",
+            ) from e
+    
+        except OSError as e:
+>           raise NewConnectionError(
+                self, f"Failed to establish a new connection: {e}"
+            ) from e
+E           urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:214: NewConnectionError
+
+The above exception was the direct cause of the following exception:
+
+self = <requests.adapters.HTTPAdapter object at 0x0000022BD78A2C50>
+request = <PreparedRequest [POST]>, stream = False
+timeout = Timeout(connect=None, read=None, total=None), verify = True
+cert = None, proxies = OrderedDict()
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection_with_tls_context(
+                request, verify, proxies=proxies, cert=cert
+            )
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+>           resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\adapters.py:667: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:843: in urlopen
+    retries = retries.increment(
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = Retry(total=0, connect=None, read=False, redirect=None, status=None)
+method = 'POST', url = '/login_safe', response = None
+error = NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')
+_pool = <urllib3.connectionpool.HTTPConnectionPool object at 0x0000022BD78A0520>
+_stacktrace = <traceback object at 0x0000022BD77833C0>
+
+    def increment(
+        self,
+        method: str | None = None,
+        url: str | None = None,
+        response: BaseHTTPResponse | None = None,
+        error: Exception | None = None,
+        _pool: ConnectionPool | None = None,
+        _stacktrace: TracebackType | None = None,
+    ) -> Self:
+        """Return a new Retry object with incremented retry counters.
+    
+        :param response: A response object, or None, if the server did not
+            return a response.
+        :type response: :class:`~urllib3.response.BaseHTTPResponse`
+        :param Exception error: An error encountered during the request, or
+            None if the response was received successfully.
+    
+        :return: A new ``Retry`` object.
+        """
+        if self.total is False and error:
+            # Disabled, indicate to re-raise the error.
+            raise reraise(type(error), error, _stacktrace)
+    
+        total = self.total
+        if total is not None:
+            total -= 1
+    
+        connect = self.connect
+        read = self.read
+        redirect = self.redirect
+        status_count = self.status
+        other = self.other
+        cause = "unknown"
+        status = None
+        redirect_location = None
+    
+        if error and self._is_connection_error(error):
+            # Connect retry?
+            if connect is False:
+                raise reraise(type(error), error, _stacktrace)
+            elif connect is not None:
+                connect -= 1
+    
+        elif error and self._is_read_error(error):
+            # Read retry?
+            if read is False or method is None or not self._is_method_retryable(method):
+                raise reraise(type(error), error, _stacktrace)
+            elif read is not None:
+                read -= 1
+    
+        elif error:
+            # Other retry?
+            if other is not None:
+                other -= 1
+    
+        elif response and response.get_redirect_location():
+            # Redirect retry?
+            if redirect is not None:
+                redirect -= 1
+            cause = "too many redirects"
+            response_redirect_location = response.get_redirect_location()
+            if response_redirect_location:
+                redirect_location = response_redirect_location
+            status = response.status
+    
+        else:
+            # Incrementing because of a server error like a 500 in
+            # status_forcelist and the given method is in the allowed_methods
+            cause = ResponseError.GENERIC_ERROR
+            if response and response.status:
+                if status_count is not None:
+                    status_count -= 1
+                cause = ResponseError.SPECIFIC_ERROR.format(status_code=response.status)
+                status = response.status
+    
+        history = self.history + (
+            RequestHistory(method, url, error, status, redirect_location),
+        )
+    
+        new_retry = self.new(
+            total=total,
+            connect=connect,
+            read=read,
+            redirect=redirect,
+            status=status_count,
+            other=other,
+            history=history,
+        )
+    
+        if new_retry.is_exhausted():
+            reason = error or ResponseError(cause)
+>           raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+E           urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_safe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\retry.py:519: MaxRetryError
+
+During handling of the above exception, another exception occurred:
+
+self = <apirun.core.ApiTestRunner.TestRunner object at 0x0000022BD77321D0>
+caseinfo = {'_case_name': '加密接口-正确的用户名和密码', 'context': {'desc': '正确的用户名和密码', 'password': '123456', 'username': 'tony'}, 'desc': '加密接口', 'featureName': '登录模块', ...}
+
+    def test_case_execute(self, caseinfo):
+        print("当前的测试数据：", caseinfo)
+        # TODO 2-1: 动态生成一下当前的测试用例标题
+        # allure.dynamic.title(caseinfo["_case_name"])
+    
+        # TODO 2-1 : 调用动态生成标题的方法
+        dynamicTitle(caseinfo)
+    
+        # TODO 2-2: 基于我们步骤一步步进行执行
+        try:
+            # 实例化关键字对象
+            keywords = KeyWords()
+    
+            # 获取当前用例变量，方便后续的渲染
+            local_context = caseinfo.get("context",{})
+            context = copy.deepcopy(g_context().show_dict())
+            context.update(local_context)
+    
+            steps = caseinfo.get("steps", None)
+            for step in steps:
+                #  提示信息
+                step_name = list(step.keys())[0]
+                step_value = list(step.values())[0]
+                print(f"开始执行步骤：{step_name} - {step_value}")
+    
+                # TODO : 每一个步骤进行变量的渲染
+                context = copy.deepcopy(g_context().show_dict())
+                context.update(local_context)
+                step_value = eval(refresh(step_value, context))
+    
+                # 基于每个步骤的关键字，找到对应的方法，然后把参数给它
+                #  通过【反射】的方式去找到对应的方法
+                with allure.step(step_name):
+                    key = step_value["关键字"]  # 具体的方法名, 在 keywords 里面找到这个方法
+                    try:
+                        key_func = keywords.__getattribute__(key)  # 从keywords获取到对应方法
+                    except AttributeError as e:
+                        print("没有这个关键字方法", e)
+>                   key_func(**step_value)  # 调用方法
+
+core\ApiTestRunner.py:62: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+extend\keywords.py:79: in request_post_form_urlencoded
+    response = requests.post(**request_data)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\api.py:115: in post
+    return request("post", url, data=data, json=json, **kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\api.py:59: in request
+    return session.request(method=method, url=url, **kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\sessions.py:589: in request
+    resp = self.send(prep, **send_kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\sessions.py:703: in send
+    r = adapter.send(request, **kwargs)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <requests.adapters.HTTPAdapter object at 0x0000022BD78A2C50>
+request = <PreparedRequest [POST]>, stream = False
+timeout = Timeout(connect=None, read=None, total=None), verify = True
+cert = None, proxies = OrderedDict()
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection_with_tls_context(
+                request, verify, proxies=proxies, cert=cert
+            )
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+            resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+    
+        except (ProtocolError, OSError) as err:
+            raise ConnectionError(err, request=request)
+    
+        except MaxRetryError as e:
+            if isinstance(e.reason, ConnectTimeoutError):
+                # TODO: Remove this in 3.0.0: see #2811
+                if not isinstance(e.reason, NewConnectionError):
+                    raise ConnectTimeout(e, request=request)
+    
+            if isinstance(e.reason, ResponseError):
+                raise RetryError(e, request=request)
+    
+            if isinstance(e.reason, _ProxyError):
+                raise ProxyError(e, request=request)
+    
+            if isinstance(e.reason, _SSLError):
+                # This branch is for urllib3 v1.22 and later.
+                raise SSLError(e, request=request)
+    
+>           raise ConnectionError(e, request=request)
+E           requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_safe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD78A24D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\adapters.py:700: ConnectionError conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:23 INFO 异常：<ExceptionInfo ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_...onnection object at 0x0000022BD78A24D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))")) tblen=24> conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:23 INFO 用例耗时：2.1463331999998445 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:23 INFO ************************************** conftest.py pytest_runtest_makereport 31
+2024-10-09 03:08:25 INFO 用例ID：core/ApiTestRunner.py::TestRunner::test_case_execute[\u52a0\u5bc6\u63a5\u53e3-\u9519\u8bef\u7684\u7528\u6237\u540d\u548c\u5bc6\u7801] conftest.py pytest_runtest_makereport 26
+2024-10-09 03:08:25 INFO 测试结果：failed conftest.py pytest_runtest_makereport 27
+2024-10-09 03:08:25 INFO 故障表示：self = <urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>
+
+    def _new_conn(self) -> socket.socket:
+        """Establish a socket connection and set nodelay settings on it.
+    
+        :return: New socket connection.
+        """
+        try:
+>           sock = connection.create_connection(
+                (self._dns_host, self.port),
+                self.timeout,
+                source_address=self.source_address,
+                socket_options=self.socket_options,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:199: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\connection.py:85: in create_connection
+    raise err
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+address = ('127.0.0.1', 8080), timeout = None, source_address = None
+socket_options = [(6, 1, 1)]
+
+    def create_connection(
+        address: tuple[str, int],
+        timeout: _TYPE_TIMEOUT = _DEFAULT_TIMEOUT,
+        source_address: tuple[str, int] | None = None,
+        socket_options: _TYPE_SOCKET_OPTIONS | None = None,
+    ) -> socket.socket:
+        """Connect to *address* and return the socket object.
+    
+        Convenience function.  Connect to *address* (a 2-tuple ``(host,
+        port)``) and return the socket object.  Passing the optional
+        *timeout* parameter will set the timeout on the socket instance
+        before attempting to connect.  If no *timeout* is supplied, the
+        global default timeout setting returned by :func:`socket.getdefaulttimeout`
+        is used.  If *source_address* is set it must be a tuple of (host, port)
+        for the socket to bind as a source address before making the connection.
+        An host of '' or port 0 tells the OS to use the default.
+        """
+    
+        host, port = address
+        if host.startswith("["):
+            host = host.strip("[]")
+        err = None
+    
+        # Using the value from allowed_gai_family() in the context of getaddrinfo lets
+        # us select whether to work with IPv4 DNS records, IPv6 records, or both.
+        # The original create_connection function always returns all records.
+        family = allowed_gai_family()
+    
+        try:
+            host.encode("idna")
+        except UnicodeError:
+            raise LocationParseError(f"'{host}', label empty or too long") from None
+    
+        for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+            af, socktype, proto, canonname, sa = res
+            sock = None
+            try:
+                sock = socket.socket(af, socktype, proto)
+    
+                # If provided, set socket level options before connecting.
+                _set_socket_options(sock, socket_options)
+    
+                if timeout is not _DEFAULT_TIMEOUT:
+                    sock.settimeout(timeout)
+                if source_address:
+                    sock.bind(source_address)
+>               sock.connect(sa)
+E               ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\connection.py:73: ConnectionRefusedError
+
+The above exception was the direct cause of the following exception:
+
+self = <urllib3.connectionpool.HTTPConnectionPool object at 0x0000022BD7BA5450>
+method = 'POST', url = '/login_safe'
+body = 'password=Sd7dHpyVfDorD9Pws7ogPg%3D%3D&username=JK1ZBV2UdsDlY69wOMgd2w%3D%3D'
+headers = {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Length': '75', 'Content-Type': 'application/x-www-form-urlencoded'}
+retries = Retry(total=0, connect=None, read=False, redirect=None, status=None)
+redirect = False, assert_same_host = False
+timeout = Timeout(connect=None, read=None, total=None), pool_timeout = None
+release_conn = False, chunked = False, body_pos = None, preload_content = False
+decode_content = False, response_kw = {}
+parsed_url = Url(scheme=None, auth=None, host=None, port=None, path='/login_safe', query=None, fragment=None)
+destination_scheme = None, conn = None, release_this_conn = True
+http_tunnel_required = False, err = None, clean_exit = False
+
+    def urlopen(  # type: ignore[override]
+        self,
+        method: str,
+        url: str,
+        body: _TYPE_BODY | None = None,
+        headers: typing.Mapping[str, str] | None = None,
+        retries: Retry | bool | int | None = None,
+        redirect: bool = True,
+        assert_same_host: bool = True,
+        timeout: _TYPE_TIMEOUT = _DEFAULT_TIMEOUT,
+        pool_timeout: int | None = None,
+        release_conn: bool | None = None,
+        chunked: bool = False,
+        body_pos: _TYPE_BODY_POSITION | None = None,
+        preload_content: bool = True,
+        decode_content: bool = True,
+        **response_kw: typing.Any,
+    ) -> BaseHTTPResponse:
+        """
+        Get a connection from the pool and perform an HTTP request. This is the
+        lowest level call for making a request, so you'll need to specify all
+        the raw details.
+    
+        .. note::
+    
+           More commonly, it's appropriate to use a convenience method
+           such as :meth:`request`.
+    
+        .. note::
+    
+           `release_conn` will only behave as expected if
+           `preload_content=False` because we want to make
+           `preload_content=False` the default behaviour someday soon without
+           breaking backwards compatibility.
+    
+        :param method:
+            HTTP request method (such as GET, POST, PUT, etc.)
+    
+        :param url:
+            The URL to perform the request on.
+    
+        :param body:
+            Data to send in the request body, either :class:`str`, :class:`bytes`,
+            an iterable of :class:`str`/:class:`bytes`, or a file-like object.
+    
+        :param headers:
+            Dictionary of custom headers to send, such as User-Agent,
+            If-None-Match, etc. If None, pool headers are used. If provided,
+            these headers completely replace any pool-specific headers.
+    
+        :param retries:
+            Configure the number of retries to allow before raising a
+            :class:`~urllib3.exceptions.MaxRetryError` exception.
+    
+            If ``None`` (default) will retry 3 times, see ``Retry.DEFAULT``. Pass a
+            :class:`~urllib3.util.retry.Retry` object for fine-grained control
+            over different types of retries.
+            Pass an integer number to retry connection errors that many times,
+            but no other types of errors. Pass zero to never retry.
+    
+            If ``False``, then retries are disabled and any exception is raised
+            immediately. Also, instead of raising a MaxRetryError on redirects,
+            the redirect response will be returned.
+    
+        :type retries: :class:`~urllib3.util.retry.Retry`, False, or an int.
+    
+        :param redirect:
+            If True, automatically handle redirects (status codes 301, 302,
+            303, 307, 308). Each redirect counts as a retry. Disabling retries
+            will disable redirect, too.
+    
+        :param assert_same_host:
+            If ``True``, will make sure that the host of the pool requests is
+            consistent else will raise HostChangedError. When ``False``, you can
+            use the pool on an HTTP proxy and request foreign hosts.
+    
+        :param timeout:
+            If specified, overrides the default timeout for this one
+            request. It may be a float (in seconds) or an instance of
+            :class:`urllib3.util.Timeout`.
+    
+        :param pool_timeout:
+            If set and the pool is set to block=True, then this method will
+            block for ``pool_timeout`` seconds and raise EmptyPoolError if no
+            connection is available within the time period.
+    
+        :param bool preload_content:
+            If True, the response's body will be preloaded into memory.
+    
+        :param bool decode_content:
+            If True, will attempt to decode the body based on the
+            'content-encoding' header.
+    
+        :param release_conn:
+            If False, then the urlopen call will not release the connection
+            back into the pool once a response is received (but will release if
+            you read the entire contents of the response such as when
+            `preload_content=True`). This is useful if you're not preloading
+            the response's content immediately. You will need to call
+            ``r.release_conn()`` on the response ``r`` to return the connection
+            back into the pool. If None, it takes the value of ``preload_content``
+            which defaults to ``True``.
+    
+        :param bool chunked:
+            If True, urllib3 will send the body using chunked transfer
+            encoding. Otherwise, urllib3 will send the body using the standard
+            content-length form. Defaults to False.
+    
+        :param int body_pos:
+            Position to seek to in file-like body in the event of a retry or
+            redirect. Typically this won't need to be set because urllib3 will
+            auto-populate the value when needed.
+        """
+        parsed_url = parse_url(url)
+        destination_scheme = parsed_url.scheme
+    
+        if headers is None:
+            headers = self.headers
+    
+        if not isinstance(retries, Retry):
+            retries = Retry.from_int(retries, redirect=redirect, default=self.retries)
+    
+        if release_conn is None:
+            release_conn = preload_content
+    
+        # Check host
+        if assert_same_host and not self.is_same_host(url):
+            raise HostChangedError(self, url, retries)
+    
+        # Ensure that the URL we're connecting to is properly encoded
+        if url.startswith("/"):
+            url = to_str(_encode_target(url))
+        else:
+            url = to_str(parsed_url.url)
+    
+        conn = None
+    
+        # Track whether `conn` needs to be released before
+        # returning/raising/recursing. Update this variable if necessary, and
+        # leave `release_conn` constant throughout the function. That way, if
+        # the function recurses, the original value of `release_conn` will be
+        # passed down into the recursive call, and its value will be respected.
+        #
+        # See issue #651 [1] for details.
+        #
+        # [1] <https://github.com/urllib3/urllib3/issues/651>
+        release_this_conn = release_conn
+    
+        http_tunnel_required = connection_requires_http_tunnel(
+            self.proxy, self.proxy_config, destination_scheme
+        )
+    
+        # Merge the proxy headers. Only done when not using HTTP CONNECT. We
+        # have to copy the headers dict so we can safely change it without those
+        # changes being reflected in anyone else's copy.
+        if not http_tunnel_required:
+            headers = headers.copy()  # type: ignore[attr-defined]
+            headers.update(self.proxy_headers)  # type: ignore[union-attr]
+    
+        # Must keep the exception bound to a separate variable or else Python 3
+        # complains about UnboundLocalError.
+        err = None
+    
+        # Keep track of whether we cleanly exited the except block. This
+        # ensures we do proper cleanup in finally.
+        clean_exit = False
+    
+        # Rewind body position, if needed. Record current position
+        # for future rewinds in the event of a redirect/retry.
+        body_pos = set_file_position(body, body_pos)
+    
+        try:
+            # Request a connection from the queue.
+            timeout_obj = self._get_timeout(timeout)
+            conn = self._get_conn(timeout=pool_timeout)
+    
+            conn.timeout = timeout_obj.connect_timeout  # type: ignore[assignment]
+    
+            # Is this a closed/new connection that requires CONNECT tunnelling?
+            if self.proxy is not None and http_tunnel_required and conn.is_closed:
+                try:
+                    self._prepare_proxy(conn)
+                except (BaseSSLError, OSError, SocketTimeout) as e:
+                    self._raise_timeout(
+                        err=e, url=self.proxy.url, timeout_value=conn.timeout
+                    )
+                    raise
+    
+            # If we're going to release the connection in ``finally:``, then
+            # the response doesn't need to know about the connection. Otherwise
+            # it will also try to release it and we'll have a double-release
+            # mess.
+            response_conn = conn if not release_conn else None
+    
+            # Make the request on the HTTPConnection object
+>           response = self._make_request(
+                conn,
+                method,
+                url,
+                timeout=timeout_obj,
+                body=body,
+                headers=headers,
+                chunked=chunked,
+                retries=retries,
+                response_conn=response_conn,
+                preload_content=preload_content,
+                decode_content=decode_content,
+                **response_kw,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:789: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:495: in _make_request
+    conn.request(
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:441: in request
+    self.endheaders()
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:1278: in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:1038: in _send_output
+    self.send(msg)
+D:\ProgramData\miniforge3\envs\autotest\lib\http\client.py:976: in send
+    self.connect()
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:279: in connect
+    self.sock = self._new_conn()
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>
+
+    def _new_conn(self) -> socket.socket:
+        """Establish a socket connection and set nodelay settings on it.
+    
+        :return: New socket connection.
+        """
+        try:
+            sock = connection.create_connection(
+                (self._dns_host, self.port),
+                self.timeout,
+                source_address=self.source_address,
+                socket_options=self.socket_options,
+            )
+        except socket.gaierror as e:
+            raise NameResolutionError(self.host, self, e) from e
+        except SocketTimeout as e:
+            raise ConnectTimeoutError(
+                self,
+                f"Connection to {self.host} timed out. (connect timeout={self.timeout})",
+            ) from e
+    
+        except OSError as e:
+>           raise NewConnectionError(
+                self, f"Failed to establish a new connection: {e}"
+            ) from e
+E           urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connection.py:214: NewConnectionError
+
+The above exception was the direct cause of the following exception:
+
+self = <requests.adapters.HTTPAdapter object at 0x0000022BD7BA4340>
+request = <PreparedRequest [POST]>, stream = False
+timeout = Timeout(connect=None, read=None, total=None), verify = True
+cert = None, proxies = OrderedDict()
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection_with_tls_context(
+                request, verify, proxies=proxies, cert=cert
+            )
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+>           resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\adapters.py:667: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\connectionpool.py:843: in urlopen
+    retries = retries.increment(
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = Retry(total=0, connect=None, read=False, redirect=None, status=None)
+method = 'POST', url = '/login_safe', response = None
+error = NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')
+_pool = <urllib3.connectionpool.HTTPConnectionPool object at 0x0000022BD7BA5450>
+_stacktrace = <traceback object at 0x0000022BD7DB9600>
+
+    def increment(
+        self,
+        method: str | None = None,
+        url: str | None = None,
+        response: BaseHTTPResponse | None = None,
+        error: Exception | None = None,
+        _pool: ConnectionPool | None = None,
+        _stacktrace: TracebackType | None = None,
+    ) -> Self:
+        """Return a new Retry object with incremented retry counters.
+    
+        :param response: A response object, or None, if the server did not
+            return a response.
+        :type response: :class:`~urllib3.response.BaseHTTPResponse`
+        :param Exception error: An error encountered during the request, or
+            None if the response was received successfully.
+    
+        :return: A new ``Retry`` object.
+        """
+        if self.total is False and error:
+            # Disabled, indicate to re-raise the error.
+            raise reraise(type(error), error, _stacktrace)
+    
+        total = self.total
+        if total is not None:
+            total -= 1
+    
+        connect = self.connect
+        read = self.read
+        redirect = self.redirect
+        status_count = self.status
+        other = self.other
+        cause = "unknown"
+        status = None
+        redirect_location = None
+    
+        if error and self._is_connection_error(error):
+            # Connect retry?
+            if connect is False:
+                raise reraise(type(error), error, _stacktrace)
+            elif connect is not None:
+                connect -= 1
+    
+        elif error and self._is_read_error(error):
+            # Read retry?
+            if read is False or method is None or not self._is_method_retryable(method):
+                raise reraise(type(error), error, _stacktrace)
+            elif read is not None:
+                read -= 1
+    
+        elif error:
+            # Other retry?
+            if other is not None:
+                other -= 1
+    
+        elif response and response.get_redirect_location():
+            # Redirect retry?
+            if redirect is not None:
+                redirect -= 1
+            cause = "too many redirects"
+            response_redirect_location = response.get_redirect_location()
+            if response_redirect_location:
+                redirect_location = response_redirect_location
+            status = response.status
+    
+        else:
+            # Incrementing because of a server error like a 500 in
+            # status_forcelist and the given method is in the allowed_methods
+            cause = ResponseError.GENERIC_ERROR
+            if response and response.status:
+                if status_count is not None:
+                    status_count -= 1
+                cause = ResponseError.SPECIFIC_ERROR.format(status_code=response.status)
+                status = response.status
+    
+        history = self.history + (
+            RequestHistory(method, url, error, status, redirect_location),
+        )
+    
+        new_retry = self.new(
+            total=total,
+            connect=connect,
+            read=read,
+            redirect=redirect,
+            status=status_count,
+            other=other,
+            history=history,
+        )
+    
+        if new_retry.is_exhausted():
+            reason = error or ResponseError(cause)
+>           raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+E           urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_safe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\urllib3\util\retry.py:519: MaxRetryError
+
+During handling of the above exception, another exception occurred:
+
+self = <apirun.core.ApiTestRunner.TestRunner object at 0x0000022BD7731690>
+caseinfo = {'_case_name': '加密接口-错误的用户名和密码', 'context': {'desc': '错误的用户名和密码', 'password': '1234567', 'username': 'hami'}, 'desc': '加密接口', 'featureName': '登录模块', ...}
+
+    def test_case_execute(self, caseinfo):
+        print("当前的测试数据：", caseinfo)
+        # TODO 2-1: 动态生成一下当前的测试用例标题
+        # allure.dynamic.title(caseinfo["_case_name"])
+    
+        # TODO 2-1 : 调用动态生成标题的方法
+        dynamicTitle(caseinfo)
+    
+        # TODO 2-2: 基于我们步骤一步步进行执行
+        try:
+            # 实例化关键字对象
+            keywords = KeyWords()
+    
+            # 获取当前用例变量，方便后续的渲染
+            local_context = caseinfo.get("context",{})
+            context = copy.deepcopy(g_context().show_dict())
+            context.update(local_context)
+    
+            steps = caseinfo.get("steps", None)
+            for step in steps:
+                #  提示信息
+                step_name = list(step.keys())[0]
+                step_value = list(step.values())[0]
+                print(f"开始执行步骤：{step_name} - {step_value}")
+    
+                # TODO : 每一个步骤进行变量的渲染
+                context = copy.deepcopy(g_context().show_dict())
+                context.update(local_context)
+                step_value = eval(refresh(step_value, context))
+    
+                # 基于每个步骤的关键字，找到对应的方法，然后把参数给它
+                #  通过【反射】的方式去找到对应的方法
+                with allure.step(step_name):
+                    key = step_value["关键字"]  # 具体的方法名, 在 keywords 里面找到这个方法
+                    try:
+                        key_func = keywords.__getattribute__(key)  # 从keywords获取到对应方法
+                    except AttributeError as e:
+                        print("没有这个关键字方法", e)
+>                   key_func(**step_value)  # 调用方法
+
+core\ApiTestRunner.py:62: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+extend\keywords.py:79: in request_post_form_urlencoded
+    response = requests.post(**request_data)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\api.py:115: in post
+    return request("post", url, data=data, json=json, **kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\api.py:59: in request
+    return session.request(method=method, url=url, **kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\sessions.py:589: in request
+    resp = self.send(prep, **send_kwargs)
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\sessions.py:703: in send
+    r = adapter.send(request, **kwargs)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = <requests.adapters.HTTPAdapter object at 0x0000022BD7BA4340>
+request = <PreparedRequest [POST]>, stream = False
+timeout = Timeout(connect=None, read=None, total=None), verify = True
+cert = None, proxies = OrderedDict()
+
+    def send(
+        self, request, stream=False, timeout=None, verify=True, cert=None, proxies=None
+    ):
+        """Sends PreparedRequest object. Returns Response object.
+    
+        :param request: The :class:`PreparedRequest <PreparedRequest>` being sent.
+        :param stream: (optional) Whether to stream the request content.
+        :param timeout: (optional) How long to wait for the server to send
+            data before giving up, as a float, or a :ref:`(connect timeout,
+            read timeout) <timeouts>` tuple.
+        :type timeout: float or tuple or urllib3 Timeout object
+        :param verify: (optional) Either a boolean, in which case it controls whether
+            we verify the server's TLS certificate, or a string, in which case it
+            must be a path to a CA bundle to use
+        :param cert: (optional) Any user-provided SSL certificate to be trusted.
+        :param proxies: (optional) The proxies dictionary to apply to the request.
+        :rtype: requests.Response
+        """
+    
+        try:
+            conn = self.get_connection_with_tls_context(
+                request, verify, proxies=proxies, cert=cert
+            )
+        except LocationValueError as e:
+            raise InvalidURL(e, request=request)
+    
+        self.cert_verify(conn, request.url, verify, cert)
+        url = self.request_url(request, proxies)
+        self.add_headers(
+            request,
+            stream=stream,
+            timeout=timeout,
+            verify=verify,
+            cert=cert,
+            proxies=proxies,
+        )
+    
+        chunked = not (request.body is None or "Content-Length" in request.headers)
+    
+        if isinstance(timeout, tuple):
+            try:
+                connect, read = timeout
+                timeout = TimeoutSauce(connect=connect, read=read)
+            except ValueError:
+                raise ValueError(
+                    f"Invalid timeout {timeout}. Pass a (connect, read) timeout tuple, "
+                    f"or a single float to set both timeouts to the same value."
+                )
+        elif isinstance(timeout, TimeoutSauce):
+            pass
+        else:
+            timeout = TimeoutSauce(connect=timeout, read=timeout)
+    
+        try:
+            resp = conn.urlopen(
+                method=request.method,
+                url=url,
+                body=request.body,
+                headers=request.headers,
+                redirect=False,
+                assert_same_host=False,
+                preload_content=False,
+                decode_content=False,
+                retries=self.max_retries,
+                timeout=timeout,
+                chunked=chunked,
+            )
+    
+        except (ProtocolError, OSError) as err:
+            raise ConnectionError(err, request=request)
+    
+        except MaxRetryError as e:
+            if isinstance(e.reason, ConnectTimeoutError):
+                # TODO: Remove this in 3.0.0: see #2811
+                if not isinstance(e.reason, NewConnectionError):
+                    raise ConnectTimeout(e, request=request)
+    
+            if isinstance(e.reason, ResponseError):
+                raise RetryError(e, request=request)
+    
+            if isinstance(e.reason, _ProxyError):
+                raise ProxyError(e, request=request)
+    
+            if isinstance(e.reason, _SSLError):
+                # This branch is for urllib3 v1.22 and later.
+                raise SSLError(e, request=request)
+    
+>           raise ConnectionError(e, request=request)
+E           requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_safe (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022BD7BA4250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+D:\ProgramData\miniforge3\envs\autotest\lib\site-packages\requests\adapters.py:700: ConnectionError conftest.py pytest_runtest_makereport 28
+2024-10-09 03:08:25 INFO 异常：<ExceptionInfo ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /login_...onnection object at 0x0000022BD7BA4250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))")) tblen=24> conftest.py pytest_runtest_makereport 29
+2024-10-09 03:08:25 INFO 用例耗时：2.0366118000001734 conftest.py pytest_runtest_makereport 30
+2024-10-09 03:08:25 INFO ************************************** conftest.py pytest_runtest_makereport 31

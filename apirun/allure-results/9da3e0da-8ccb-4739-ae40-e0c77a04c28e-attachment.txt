@@ -1,0 +1,11 @@
+当前的测试数据： {'desc': '加密接口', 'storyName': '加密项目', 'featureName': '登录模块', 'remark': '登录模块备注', 'steps': [{'进行数据加密 - 用户名': {'关键字': 'encrypt_aes', 'data': '{{username}}', 'VARNAME': 'aes_username'}}, {'进行数据加密 - 密码': {'关键字': 'encrypt_aes', 'data': '{{password}}', 'VARNAME': 'aes_password'}}, {'发送Post请求': {'关键字': 'request_post_form_urlencoded', 'URL': 'http://127.0.0.1:8080/login_safe', 'DATA': {'password': '{{aes_username}}', 'username': '{{aes_password}}'}}}], 'context': {'username': 'tony', 'password': '123456', 'desc': '正确的用户名和密码'}, '_case_name': '加密接口-正确的用户名和密码'}
+开始执行步骤：进行数据加密 - 用户名 - {'关键字': 'encrypt_aes', 'data': '{{username}}', 'VARNAME': 'aes_username'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': '提交成功', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839', 'card_id_2': '28833', 'add_id': '14587', 'aes_username': 'XbXHJrNLwoTVcyfqM9eTgQ=='}
+-----------------------
+开始执行步骤：进行数据加密 - 密码 - {'关键字': 'encrypt_aes', 'data': '{{password}}', 'VARNAME': 'aes_password'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': '提交成功', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839', 'card_id_2': '28833', 'add_id': '14587', 'aes_username': 'XbXHJrNLwoTVcyfqM9eTgQ==', 'aes_password': 'mdSm0RmB+xAKrTah3DG31A=='}
+-----------------------
+开始执行步骤：发送Post请求 - {'关键字': 'request_post_form_urlencoded', 'URL': 'http://127.0.0.1:8080/login_safe', 'DATA': {'password': '{{aes_username}}', 'username': '{{aes_password}}'}}
+--当前步骤执行结束--

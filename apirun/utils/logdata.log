@@ -1,0 +1,6 @@
+2024-07-14 21:41:41 INFO 用例ID：utils/VarRender.py::testRefresh conftest.py pytest_runtest_makereport 26
+2024-07-14 21:41:41 INFO 测试结果：passed conftest.py pytest_runtest_makereport 27
+2024-07-14 21:41:41 INFO 故障表示：None conftest.py pytest_runtest_makereport 28
+2024-07-14 21:41:41 INFO 异常：None conftest.py pytest_runtest_makereport 29
+2024-07-14 21:41:41 INFO 用例耗时：0.0011972999999998457 conftest.py pytest_runtest_makereport 30
+2024-07-14 21:41:41 INFO ************************************** conftest.py pytest_runtest_makereport 31

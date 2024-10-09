@@ -1,0 +1,2 @@
+2024-10-09 03:08:16 DEBUG Starting new HTTP connection (1): shop-xo.hctestedu.com:80 connectionpool.py _new_conn 243
+2024-10-09 03:08:16 DEBUG http://shop-xo.hctestedu.com:80 "POST /?s=%2Fapi%2Fuser%2Flogin&application=app HTTP/11" 200 None connectionpool.py _make_request 546

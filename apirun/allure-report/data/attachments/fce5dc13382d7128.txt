@@ -1,0 +1,8 @@
+当前的测试数据： {'desc': '删除地址列表', 'featureName': '地址模块', 'storyName': '地址模块', 'remark': '地址删除模块备注', 'steps': [{'发送Post请求': {'关键字': 'request_post_row_json', 'URL': '{{URL}}', 'PARAMS': {'s': 'api/useraddress/delete', 'application': 'app', 'token': '{{msg_token}}'}, 'DATA': {'id': '{{add_id}}'}}}, {'通过JSONPATH提取数据-MSG': {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}}, {'断言-文本断言-等于': {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': '删除成功', 'OP_STR': '=='}}], '_case_name': '删除地址列表'}
+开始执行步骤：发送Post请求 - {'关键字': 'request_post_row_json', 'URL': '{{URL}}', 'PARAMS': {'s': 'api/useraddress/delete', 'application': 'app', 'token': '{{msg_token}}'}, 'DATA': {'id': '{{add_id}}'}}
+开始执行步骤：通过JSONPATH提取数据-MSG - {'关键字': 'ex_jsonData', 'EXVALUE': '$..msg', 'INDEX': 0, 'VARNAME': 'msg_success'}
+-----------------------
+{'URL': 'http://shop-xo.hctestedu.com', '_database': {'mysql001': {'host': 'shop-xo.hctestedu.com', 'port': 3306, 'user': 'api_test', 'password': 'Aa9999!', 'db': 'shopxo_hctested'}}, 'username': 'hami1219', 'current_response': <Response [200]>, 'msg_success': '删除成功', 'msg_token': '434f1d1572a7aab2910ad51eac08697f', 'card_id_1': '28839', 'card_id_2': '28833', 'add_id': '14586'}
+-----------------------
+开始执行步骤：断言-文本断言-等于 - {'关键字': 'assert_text_comparators', 'VALUE': '{{msg_success}}', 'EXPECTED': '删除成功', 'OP_STR': '=='}
+--当前步骤执行结束--

@@ -1,0 +1,45 @@
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.address`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.address` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.automotive`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.automotive` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.bank`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider. factory.py _find_provider_class 86
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.barcode`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.barcode` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.color`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.color` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.company`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.company` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.credit_card`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.credit_card` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.currency`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.currency` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.date_time`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.date_time` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.geo`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.geo` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.internet`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.internet` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.job`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.job` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.lorem`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.lorem` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.misc`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.misc` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.passport`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.passport` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.person`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.person` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.phone_number`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.phone_number` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Looking for locale `en_US` in provider `faker.providers.ssn`. factory.py _find_provider_class 76
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.ssn` has been localized to `en_US`. factory.py _find_provider_class 95
+2024-10-09 03:08:15 DEBUG Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider. factory.py _find_provider_class 106
+2024-10-09 03:08:15 DEBUG Starting new HTTP connection (1): shop-xo.hctestedu.com:80 connectionpool.py _new_conn 243
+2024-10-09 03:08:15 DEBUG http://shop-xo.hctestedu.com:80 "POST /?s=api%2Fuser%2Freg HTTP/11" 200 None connectionpool.py _make_request 546
